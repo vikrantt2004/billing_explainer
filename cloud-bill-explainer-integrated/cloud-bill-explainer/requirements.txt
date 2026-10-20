@@ -1,0 +1,13 @@
+# Core app
+streamlit>=1.42        # st.login()/st.user (OIDC) arrived in 1.42
+Authlib>=1.3.2         # required by Streamlit for OIDC
+pandas>=2.0
+openpyxl>=3.1
+
+# PDF / OCR (needed from Stage 3 onward)
+PyMuPDF>=1.24
+pytesseract>=0.3.10
+Pillow>=10.0
+
+# Tests
+pytest>=8.0

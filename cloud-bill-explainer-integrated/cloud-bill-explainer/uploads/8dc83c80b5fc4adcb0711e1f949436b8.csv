@@ -1,0 +1,3 @@
+billing_period,account_id,invoice_number,usage_total,credits_total,tax_total,invoice_total,currency
+2026-05,demo-account-001,INV-MAY-001,40000.00,0.00,0.00,40000.00,INR
+2026-06,demo-account-001,INV-JUN-001,60000.00,-2000.00,0.00,58000.00,INR

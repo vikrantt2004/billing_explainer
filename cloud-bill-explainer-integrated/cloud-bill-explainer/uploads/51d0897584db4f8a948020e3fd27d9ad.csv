@@ -1,0 +1,10 @@
+billing_period,account_id,service,region,resource_id,charge_type,amount,currency
+2026-05,demo-account-001,Compute,ap-south-1,vm-101,usage,12000.00,INR
+2026-05,demo-account-001,Compute,ap-southeast-1,vm-202,usage,3000.00,INR
+2026-05,demo-account-001,Storage,ap-south-1,vol-101,usage,5000.00,INR
+2026-05,demo-account-001,Database,ap-south-1,db-101,usage,20000.00,INR
+2026-06,demo-account-001,Compute,ap-south-1,vm-101,usage,15000.00,INR
+2026-06,demo-account-001,Compute,ap-southeast-1,vm-202,usage,15000.00,INR
+2026-06,demo-account-001,Storage,ap-south-1,vol-101,usage,10000.00,INR
+2026-06,demo-account-001,Database,ap-south-1,db-101,usage,20000.00,INR
+2026-06,demo-account-001,Promotional Credit,global,credit-june-01,credit,-2000.00,INR
